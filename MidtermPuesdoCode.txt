@@ -1,0 +1,40 @@
+Ice Cream Cone Stacker
+
+Variables
+flavors
+number of scoops
+Functions
+If Statements 
+Loops
+Scope and access modifiers
+Text based (Console) Game.
+
+
+sprinkles class
+Create power-ups that Adds an adds sprinkles
+bonus inventory is sprinkles
+User interaction. (Trigger, Click) will add scoops to a cone
+Add to a variable to the number of scoops
+
+User interaction. (Trigger, Click) will add scoops to a cone
+Add to a variable to the number of scoops
+
+
+Flavor Class (instance)
+Variables: flavors
+Loops the flavor of the scoops
+
+
+Scoop adder Class (reference this)
+Use if statement to either add or subtract scoops
+Variables: number of scoops
+Function that lists the  avaliable flavors using a loop
+
+Order Class references the scoop adder class
+Create a function that runs with a certain answer (If answer is 10 for example, something happens);
+If there is an order with num of scoops,
+when that order is filled it will alert the order is ready
+User interaction. (Trigger, Click) will add scoops to a cone
+Add to a variable to the number of scoops
+
+Use short code
