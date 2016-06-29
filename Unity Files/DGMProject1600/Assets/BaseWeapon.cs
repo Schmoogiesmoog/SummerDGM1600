@@ -10,7 +10,7 @@ public class BaseWeapon : MonoBehaviour {
 	void Start () 
 	{
 		thisAmmo = new BaseAmmo ();
-		thisAmmo.ammoCount = 10000;
+		thisAmmo.ammoCount = 10;
 	
 	}
 	

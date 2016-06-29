@@ -12,10 +12,13 @@ public class BaseAmmo {
 	// This function runs when called for a weapon
 	public void Fire()
 	{
-		if (ammoCount > 0) {
+		if (ammoCount > 0) 
+		{
 			ammoCount--;
 			Debug.Log (ammoCount);
-		} else {
+		} 
+		else 
+		{
 			Debug.Log ("Out of ammo!");
 		}
 
